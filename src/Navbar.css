@@ -1,0 +1,134 @@
+
+.logo {
+    color: white;
+    font-size: 20px; /* Logo font size */
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 12px; /* Space between links */
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-links a:hover {
+    text-decoration: underline;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 10px 20px;
+}
+
+.logo {
+    color: white;
+    font-size: 24px; /* Logo font size */
+}
+
+.nav-select {
+    padding: 5px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.navbar {
+    background-color: #333;
+    padding: 1rem;
+  }
+  
+  .navbar-menu {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-item a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .navbar-item a:hover {
+    color: #ddd;
+  }
+  /* Navbar.css */
+
+.navbar {
+    background-color: #333; /* Example background color */
+    padding: 10px;
+}
+
+.navbar-menu {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Adjust as needed */
+}
+
+.navbar-item {
+    margin: 0 20px; /* Increased margin for more space between items */
+}
+
+.navbar-item a {
+    color: white; /* Link color */
+    text-decoration: none;
+}
+
+.yellow-button {
+    background-color: yellow; /* Button color */
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.yellow-button:hover {
+    background-color: gold; /* Hover effect */
+}
+/* Navbar.css */
+
+.navbar {
+    background-color: #333; /* Example background color */
+    padding: 10px;
+}
+
+.navbar-menu {
+    list-style-type: none;
+    display: flex;
+    align-items: center; /* Vertically center the items */
+    justify-content: center; /* Horizontally center the items */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+.navbar-item {
+    margin: 0 20px; /* Space between items */
+}
+
+.navbar-item a {
+    color: white; /* Link color */
+    text-decoration: none;
+}
+
+.yellow-button {
+    background-color: yellow; /* Button color */
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.yellow-button:hover {
+    background-color: gold; /* Hover effect */
+}
